@@ -6,5 +6,5 @@ Second button: This button will be used for grouping multiple images as a single
 The image size and color may be displayed whenever a new image is rendered on the canvas (optional).
 The location, size and color of the selected image (object) may also be displayed (optional).
 You are free to include various other features and buttons like changing the size and color of the image, connecting the centers of the images, etc. to make your application more attractive (optional).
-Note:
+#Note:
 I have not implemented the details of button 2 and the url I used is that of a google website and not from github repository
